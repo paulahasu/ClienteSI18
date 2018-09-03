@@ -10,7 +10,7 @@ import android.widget.TextView;
 import br.usjt.sin.progmulti.atividadessi2018.util.StatusTracker;
 import br.usjt.sin.progmulti.atividadessi2018.util.Utils;
 /**
- * @author Claudemir cardoso RA 816155452
+ * @author Paula Akemi Hasu RA: 817126817
  */
 public class ActivityC extends Activity {
 
@@ -91,6 +91,3 @@ public class ActivityC extends Activity {
     }
 
 }
-/**
- * @author Claudemir cardoso RA 816155452
- */

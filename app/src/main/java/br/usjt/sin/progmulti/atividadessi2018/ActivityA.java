@@ -27,7 +27,7 @@ import br.usjt.sin.progmulti.atividadessi2018.util.Utils;
 
 
 /**
- * @author claudemir cardoso RA 816155452
+ * @author Paula Akemi Hasu RA: 817126817
  */
 public class ActivityA extends Activity {
 
@@ -108,6 +108,3 @@ public class ActivityA extends Activity {
     }
 
 }
-/**
- * @author Claudemir cardoso RA 816155452
- */

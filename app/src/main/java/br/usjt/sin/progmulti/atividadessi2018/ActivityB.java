@@ -11,7 +11,7 @@ import br.usjt.sin.progmulti.atividadessi2018.util.StatusTracker;
 import br.usjt.sin.progmulti.atividadessi2018.util.Utils;
 
 /**
- * @author Claudemir cardoso RA 816155452
+ * @author Paula Akemi Hasu RA: 817126817
  */
 public class ActivityB extends Activity {
 
@@ -93,6 +93,3 @@ public class ActivityB extends Activity {
 
 }
 
-/**
- * @author Claudemir cardoso RA 816155452
- */

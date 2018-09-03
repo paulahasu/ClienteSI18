@@ -21,7 +21,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
 /**
- * @author Claudemir cardoso RA 816155452
+ * @author Paula Akemi Hasu RA: 817126817
  */
 public class DialogActivity extends Activity {
     @Override
@@ -39,6 +39,3 @@ public class DialogActivity extends Activity {
         DialogActivity.this.finish();
     }
 }
-/**
- * @author Claudemir cardoso RA 816155452
- */
